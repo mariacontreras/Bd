@@ -1,11 +1,10 @@
 package com.example.fabiola.bd;
-
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.database.sqlite.SQLiteDatabase;
 import android.view.Menu;
 
+//probando
 public class MainActivity extends Activity {
 
     @Override
